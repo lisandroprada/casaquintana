@@ -7,7 +7,7 @@ Proyecto de Propietas Inmobiliaria. Hereda de `../CLAUDE.md`: datos de la firma,
 - **Ubicación:** Manuel Quintana 707, Rawson, Chubut
 - **Oferta:** Venta, USD 68.000 (confirmado por el usuario; la ficha web dice USD 67.500, unificar)
 - **Superficies:** 115 m² cubiertos/totales (ficha) · 283 m² de terreno (a confirmar con el corredor que 283 sea terreno)
-- **Ambientes:** 6 · 3 dormitorios · baños: ficha dice 1 pero la descripción menciona suite + segundo baño completo (PENDIENTE aclarar: 1 o 2)
+- **Ambientes:** 6 · 3 dormitorios · 2 baños (confirmado por el usuario)
 - **Antigüedad:** 45 años (ficha)
 - **Estado:** disponible
 - **Referencia:** PROP-XNM9LC6J
@@ -33,7 +33,7 @@ Proyecto de Propietas Inmobiliaria. Hereda de `../CLAUDE.md`: datos de la firma,
 
 ## Pendientes
 - Actualizar la ficha de ipropietas.com.ar a USD 68.000 para que coincida
-- Confirmar superficies (115 m² cubiertos, 283 m² terreno) y cantidad de baños
+- Confirmar superficies (sitio: 115 m² + 283 m² terreno; ficha del 696: 285,5 m²)
 - Más fotos y de mayor resolución (solo se obtuvo la portada de 800×600); plano si existe
 - Orientación, servicios, cocheras, escritura/estado dominial: no informados
 - Ubicación exacta para mapa: confirmar si se muestra la dirección completa
